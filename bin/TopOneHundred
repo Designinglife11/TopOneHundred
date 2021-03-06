@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/Top_one_hundred.rb'
+
+TopOneHundred::CLI.new.start
